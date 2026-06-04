@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Arunsaikiran, a motivated fellow who is constantly looking to upskill himself
-- 👀 I’m passionate about data and data analytics
+# Hi, I'm Arun 👋
 
-<!---
-Kiranlewis/Kiranlewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Engineer | AWS | PySpark | SQL
+
+AWS Certified Data Engineer – Associate
+
+Tech Stack:
+Python • PySpark • SQL • AWS Glue • Redshift • S3 • Iceberg • Airflow
