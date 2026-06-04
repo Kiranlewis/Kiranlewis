@@ -2,7 +2,7 @@
 
 Data Engineer | AWS | PySpark | SQL
 
-AWS Certified Data Engineer – Associate
+AWS Certified Data Engineer
 
 Tech Stack:
 Python • PySpark • SQL • AWS Glue • Redshift • S3 • Iceberg • Airflow
